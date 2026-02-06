@@ -2,7 +2,7 @@
 danmuji will help you processing ASCII rater files and text files.   
 danmuji can process a lot of files in a batch process. The main features of the danmuji are as below.
 
-  ![]([https://github.com/softsnack/danmuji/tree/main/Wiki/MainGUI.JPG) 
+  ![]([https://github.com/softsnack/danmuji/blob/master/Wiki/MainGUI.JPG) 
 
 O Raster files converter(using GDAL tool)
    - Convert GTiff files <-> ASCII raster files
