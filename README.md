@@ -49,7 +49,7 @@ O File name processor
    
 
 # Using danmuji
- - 파일 다운로드와 세팅 가이드는 https://github.com/swallowWings/danmuji/tree/master/DownloadStableVersion   
+ - 파일 다운로드와 세팅 가이드는 https://github.com/softsnack/danmuji/tree/master/DownloadStableVersion   
    에서 gdal.zip과 danmuji.*을 다운로드 하고, 각 파일의 속성(마우스 우클릭>속성)에서 차단해제 
  - 압축파일을 풀고, gdal 폴더는 danmuji.exe와 같은 폴더에 배치해서 사용  
    (ex, d:\danmuji_Tool\danmuji.exe             
