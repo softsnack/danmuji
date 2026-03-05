@@ -139,6 +139,10 @@ O 2025
  - The column mode in "Append text files" was improved.   
  - Bug fix in changing the file extension.   
 
+O 2026.03.05
+ - The coordinate system converter was improved.   
+ 
+
 
 
 
