@@ -141,6 +141,9 @@ O 2025
 
 O 2026.03.05
  - The coordinate system converter was improved.   
+
+O 2026.03.19
+ - The feature of extracting values from ASCII files using point locations (from location texts or point shp file) was improved.   
  
 
 
