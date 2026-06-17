@@ -146,8 +146,8 @@ O 2026.03.25
  - The feature of extracting values from ASCII files using point locations (from location texts or point shp file) was improved.   
  - Bug fix in reading ASCII raster file.   
 
-
-
+O 2026.06.17
+ - The feature of making ASCII raster file by mapping CSV values to raster values was added.  
 
 
 
